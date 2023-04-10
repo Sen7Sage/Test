@@ -1,0 +1,9 @@
+@ECHO OFF
+CLS
+ECHO.
+ECHO.
+ECHO Office wordt op dit moment voor u geinstalllerd op uw PC.
+ECHO.
+ECHO Schakel u PC niet uit tijdens de installatie!
+ECHO Klik op de spatiebalk om de installatie te starten.
+PAUSE
